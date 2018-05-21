@@ -1,0 +1,11 @@
+/Users/joshgressman/Desktop/ASP .NET/Demo/DatingApp.API/bin/Debug/netcoreapp2.0/DatingApp.API.deps.json
+/Users/joshgressman/Desktop/ASP .NET/Demo/DatingApp.API/bin/Debug/netcoreapp2.0/DatingApp.API.runtimeconfig.json
+/Users/joshgressman/Desktop/ASP .NET/Demo/DatingApp.API/bin/Debug/netcoreapp2.0/DatingApp.API.runtimeconfig.dev.json
+/Users/joshgressman/Desktop/ASP .NET/Demo/DatingApp.API/bin/Debug/netcoreapp2.0/DatingApp.API.dll
+/Users/joshgressman/Desktop/ASP .NET/Demo/DatingApp.API/bin/Debug/netcoreapp2.0/DatingApp.API.pdb
+/Users/joshgressman/Desktop/ASP .NET/Demo/DatingApp.API/obj/Debug/netcoreapp2.0/DatingApp.API.csprojAssemblyReference.cache
+/Users/joshgressman/Desktop/ASP .NET/Demo/DatingApp.API/obj/Debug/netcoreapp2.0/DatingApp.API.csproj.CoreCompileInputs.cache
+/Users/joshgressman/Desktop/ASP .NET/Demo/DatingApp.API/obj/Debug/netcoreapp2.0/DatingApp.API.AssemblyInfoInputs.cache
+/Users/joshgressman/Desktop/ASP .NET/Demo/DatingApp.API/obj/Debug/netcoreapp2.0/DatingApp.API.AssemblyInfo.cs
+/Users/joshgressman/Desktop/ASP .NET/Demo/DatingApp.API/obj/Debug/netcoreapp2.0/DatingApp.API.dll
+/Users/joshgressman/Desktop/ASP .NET/Demo/DatingApp.API/obj/Debug/netcoreapp2.0/DatingApp.API.pdb
